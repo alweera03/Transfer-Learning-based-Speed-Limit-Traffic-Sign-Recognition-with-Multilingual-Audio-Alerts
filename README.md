@@ -26,6 +26,6 @@ Traffic Sign Recognition, Convolutional Neural Network, ResNet, Transfer Learnin
 
 ## Code
 
-- [Model Training on GTSRB Dataset](Code/CNN, VGG and ResNet Models on GTSRB Dataset.ipynb)
-- [Model Training on Indian Dataset](Code/Indian_dataset Final.ipynb)
-- [Multilingual Audio Alert Generation](Code/audio_generation.ipynb)
+- [Jupyter Notebook: Model Training on GTSRB Dataset](Code/CNN_VGG_ResNet_Models_on_GTSRB_Dataset.ipynb)
+- [Jupyter Notebook: Model Training on Indian Dataset](Code/Indian_Dataset_Final.ipynb)
+- [Jupyter Notebook: Multilingual Audio Alert Generation](Code/audio_generation.ipynb)
