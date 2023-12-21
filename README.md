@@ -17,8 +17,8 @@ We utilized speed limit sign classes from two datasets:
 ## Results
 
 Our trained models achieved impressive test accuracies:
-- 99.96% using ResNet-50
-- 98.62% using other state-of-the-art methods, including CNN and VGG.
+- 99.96% on GTSRB
+- 98.62% on Indian Dataset.
 
 ## Keywords
 
